@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Komal paul</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif">
-- 🔭 I’m currently working on [Strape Cart](https://github.com/PaulWebdeveloper7/Coolgirls.git)
+- 🔭 I’m currently working on [ My Portfolio building  ](https://github.com/PaulWebdeveloper7/my-portfolio)
 
 - 🌱 I’m currently learning **Typescript, ai , python**
 
